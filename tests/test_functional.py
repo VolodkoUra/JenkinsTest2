@@ -1,6 +1,5 @@
 from framework.pages.authenticate_page import AuthenticatePage
 from framework.pages.main_page import MainPage
-from framework.pages.profile_page import ProfilePage
 from framework.utils.random_utils import RandomUtils
 from framework.constants.random import COUNT_INTERESTS
 
